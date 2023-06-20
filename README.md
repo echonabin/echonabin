@@ -2,7 +2,7 @@
 
 ## I'm Nabin, an eager learner with passion for putting acquired knowledge into practice.!!
 
-![echonabin](https://komarev.com/ghpvc/?username=echonabin&color=green)<br> - 📈 I’m currently learning Rust<br> - ⚡ Fun fact: I love travelling and watch documentaries
+![echonabin](https://komarev.com/ghpvc/?username=echonabin&color=green)<br> - 📈 I’m currently learning Go<br> - ⚡ Fun fact: I love travelling and watch documentaries
 
 ### Languages and Tools:
 
