@@ -1,39 +1,96 @@
-# Greetings folks 🙏,
+<div align="center">
+  
+# 👨‍💻 Nabin Thapa
 
-## I'm Nabin, an eager learner with passion for putting acquired knowledge into practice.!!
+### Senior Software Engineer @ Leapfrog Technology, Inc.
 
-![echonabin](https://komarev.com/ghpvc/?username=echonabin&color=green)<br> - 📈 I’m currently learning Go<br> - ⚡ Fun fact: I love travelling and watch documentaries
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nabin-thapa)
+[![GitHub followers](https://img.shields.io/github/followers/echonabin?style=for-the-badge&logo=github)](https://github.com/echonabin)
+[![Profile Views](https://komarev.com/ghpvc/?username=echonabin&color=blueviolet&style=for-the-badge)](https://github.com/echonabin)
 
-### Languages and Tools:
+</div>
 
-<p>  
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.rust-lang.org/" target="_blank">
-        <img src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" alt="rust" width="40" height="40"/> 
-    </a>  
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="typescript" width="40" height="40"/>
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>   
-    <a href="https://nodejs.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://azure.microsoft.com/en-us/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
-    </a>
-</p>
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=echonabin&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+## 🚀 About Me
+
+Full-stack developer with **~5 years** of professional experience building scalable web applications and robust APIs using modern web technologies.
+
+📍 **Based in:** Kathmandu, Nepal  
+🎓 **Education:** Bachelor in Computer Applications (Software Engineering) - Tribhuvan University  
+💼 **Current Role:** Senior Software Engineer at Leapfrog Technology, Inc.
+
+### What I Do
+- 🏗️ Design and build scalable web applications and services
+- 👥 Lead technical discussions and mentor engineers
+- 🎯 Deliver high-quality software aligned with business goals
+- 🔧 Optimize applications for performance and reliability
+- 🌐 Contribute to open-source projects
+
+---
+
+## 💻 Tech Stack
+
+```javascript
+const nabinThapa = {
+  languages: ['JavaScript', 'TypeScript'],
+  frontend: ['React', 'Next.js'],
+  backend: ['Node.js', 'Nest.js', 'REST APIs'],
+  databases: ['PostgreSQL'],
+  cloud: ['AWS', 'Azure'],
+  tools: ['Git', 'GitHub Actions', 'Azure DevOps'],
+  practices: ['CI/CD', 'Automated Testing']
+};
+```
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Focus Area |
+|------------|-----------|
+| 🤖 **GenAI** | Exploring Generative AI and LLM applications |
+| 🔷 **Go** | Building high-performance backend services |
+| 📘 **TypeScript** | Advanced patterns and best practices |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=echonabin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=echonabin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echonabin&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building scalable solutions, one commit at a time"
+
+⭐️ From [echonabin](https://github.com/echonabin)
+
+</div>
