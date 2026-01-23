@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer @ Leapfrog Technology, Inc.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nabin-thapa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/echonabin)
 [![GitHub followers](https://img.shields.io/github/followers/echonabin?style=for-the-badge&logo=github)](https://github.com/echonabin)
 [![Profile Views](https://komarev.com/ghpvc/?username=echonabin&color=blueviolet&style=for-the-badge)](https://github.com/echonabin)
 
